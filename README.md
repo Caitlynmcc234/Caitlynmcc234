@@ -1,7 +1,6 @@
 My Name Is Caitlyn
 
-Beginner Game Dev
-Learning to Create Pokemon ROM Hacks
+Beginner Game Developer
 
 Discord: solithespirit
 
